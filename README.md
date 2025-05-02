@@ -1,6 +1,6 @@
 # Data-Cleaning-Assignment
 Data cleaning assignment for Mann Hospitality LLP
-steps I took-
+steps:-
 Step 1-unzip the provide zip file by Python.
 Step 2- Extract Summary, Payout Breakup, Order Level from Annexure Files into the target assignment file by Python.
 step 3- Convert Commission Invoice pdf files to Excel by Python.
